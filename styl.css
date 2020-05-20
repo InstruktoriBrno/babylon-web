@@ -1,0 +1,128 @@
+body {text-align: center; 
+ font-family: "Trebuchet MS", "Arial CE", Arial, Verdana, Geneva, Helvetica, 
+sans-serif; font-weight:bold }
+
+
+td a {text-decoration:none}
+
+td {text-align:center}
+
+img {border:0px}
+
+#intro_table {position:relative; top:200px; text-align:center; margin-left:auto; margin-right:auto }
+
+#container {width:950px; position: relative;text-align: left; margin: auto}
+
+#content {width:700px; float:right; background: url("img/back.jpg") 0 0 no-repeat;}
+
+#menu {width:250px; float:left;}
+
+#kontakt {margin-left:30px}
+
+#footer{clear:both}
+
+#nadpis{position:relative; float:right}
+
+
+#uvod_table {width:600px; margin:20px 50px 20px 50px}
+
+.white {color:white}
+.yellow{color:yellow}
+.orange{color:orange}
+.red{color:red}
+.green{color:lawngreen}
+.blue{color:blue}
+.brown{color:saddlebrown}
+.gray{color:lightgray}
+.black{color:black}
+
+
+.left {text-align:left; margin-left:10px;}
+
+.right {text-align:right; margin-right:10px; }
+
+.left_img {float:left;}
+
+.right_img {float:right; margin:20px}
+
+#uvod_text{position:relative;float:right; width:250px; right:100px}
+#uvod_left{position:relative;float:left; }
+
+#kacka a {
+		display:block;
+		width:150px;
+		height:150px;
+    background: url("intro/kacka_button_sm.jpg") 0 0 no-repeat;
+    background-position: -150px 0;
+			}
+			
+#kacka a:hover {
+                	
+		background-position: 0 0;
+		
+		}
+		
+#pavel a {
+	display:block;
+	  width:150px;
+		height:150px;
+    background: url("intro/pavel_button_sm.jpg") 0 0 no-repeat;
+		background-position: -150px 0;
+			}
+			
+#pavel a:hover {
+                	
+background-position: 0 0;
+		
+		}
+		
+#tashi a {
+	display:block;
+		width:150px;
+		height:150px;
+    background: url("intro/tashi_button_sm.jpg") 0 0 no-repeat;
+		background-position: -150px 0;
+			}
+			
+#tashi a:hover {
+                	
+		background-position: 0 0;
+		}
+		
+#martule a {
+		display:block;
+		width:150px;
+		height:150px;
+    background: url("intro/martule_button_sm.jpg") 0 0 no-repeat;
+		background-position: -150px 0;
+			}
+			
+#martule a:hover {
+                	
+		background-position: 0 0;
+		}
+		
+#mlok a {
+display:block;
+	  width:150px;
+		height:150px;
+    background: url("intro/mlok_button_sm.jpg") 0 0 no-repeat;
+		background-position: -150px 0;
+			}
+			
+#mlok a:hover {
+                	
+	background-position: 0 0;	
+		}
+
+#honza a {
+		display:block;
+		width:150px;
+		height:150px;
+    background: url("intro/honza_button_sm.jpg") 0 0 no-repeat;
+		background-position: -150px 0;
+			}
+			
+#honza a:hover {
+                	
+		background-position: 0 0;	}
